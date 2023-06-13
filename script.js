@@ -1,4 +1,4 @@
-/*const music =  Audio('vande.mp3');*/
+const music =  new Audio('vande.mp3');
 
 const songs = [
     {
